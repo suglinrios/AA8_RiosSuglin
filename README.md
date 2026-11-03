@@ -1,2 +1,3 @@
-# AA8_R-osSuglin
-AA8: Programación Orientada a Objetos
+# Actividad Asincrónica #8
+### Curso: Programación Orientada a Objetos
+### Estudiante: Suglin Ríos Aguilar | Carné: 2026005545
