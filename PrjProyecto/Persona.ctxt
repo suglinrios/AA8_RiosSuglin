@@ -1,0 +1,13 @@
+#BlueJ class context
+#Mon Nov 02 21:23:23 CST 2026
+comment0.target=Persona
+comment1.params=id nombre
+comment1.target=Persona(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombreCompleto()
+comment3.params=obj
+comment3.target=void asignarProyecto(Proyecto)
+comment4.target=double devolverCostoActualPrj()
+comment5.params=obj
+comment5.target=boolean menorQue(Comparable)
+comment6.target=java.lang.String toString()
+numComments=7
